@@ -1,6 +1,6 @@
-# neumorphism
+# Neumorphic-Flutter-Design
 
-A new Flutter project.
+Bueatiful Neumorphic Design and Side Drawer created with Flutter inspired from a dribble post
 
 ## Getting Started
 
